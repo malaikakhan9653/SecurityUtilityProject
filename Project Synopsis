@@ -10,15 +10,15 @@ Technology Used:
 •	Python
 •	Cryptography
 •	Modules
-o	tkinter
-o	socket
-o	threading
-o	requests
-o	bs4 (BeautifulSoup)
-o	urllib.parse
-o	string
-o	random
-o	Pyperclip
+•	tkinter
+•	socket
+•	threading
+•	requests
+•	bs4 (BeautifulSoup)
+•	urllib.parse
+•	string
+•	random
+•	Pyperclip
 
 Project Structure:
 
